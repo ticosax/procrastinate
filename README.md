@@ -60,7 +60,7 @@
 | procrastinate/exceptions.py                                       |       31 |        0 |        2 |        0 |    100% |           |
 | procrastinate/job\_context.py                                     |       43 |        1 |        2 |        0 |     98% |        84 |
 | procrastinate/jobs.py                                             |       91 |        0 |        4 |        0 |    100% |           |
-| procrastinate/manager.py                                          |      130 |        0 |       22 |        0 |    100% |           |
+| procrastinate/manager.py                                          |      137 |        2 |       22 |        0 |     99% |   494-495 |
 | procrastinate/metadata.py                                         |        6 |        0 |        0 |        0 |    100% |           |
 | procrastinate/periodic.py                                         |      105 |        0 |       20 |        0 |    100% |           |
 | procrastinate/psycopg\_connector.py                               |      109 |        5 |       26 |        3 |     94% |135-137, 212, 284 |
@@ -72,11 +72,11 @@
 | procrastinate/sql/migrations/\_\_init\_\_.py                      |        0 |        0 |        0 |        0 |    100% |           |
 | procrastinate/sync\_psycopg\_connector.py                         |       82 |        2 |       14 |        2 |     96% |  144, 169 |
 | procrastinate/tasks.py                                            |       71 |        0 |        8 |        0 |    100% |           |
-| procrastinate/testing.py                                          |      176 |        0 |       40 |        0 |    100% |           |
+| procrastinate/testing.py                                          |      184 |        0 |       40 |        0 |    100% |           |
 | procrastinate/types.py                                            |       13 |        0 |        0 |        0 |    100% |           |
 | procrastinate/utils.py                                            |      165 |        0 |       36 |        0 |    100% |           |
-| procrastinate/worker.py                                           |      231 |        7 |       70 |        7 |     95% |68, 80, 188->191, 380->exit, 390-391, 395-396, 412->411, 429 |
-|                                                         **TOTAL** | **2804** |  **224** |  **438** |   **22** | **92%** |           |
+| procrastinate/worker.py                                           |      231 |        7 |       70 |        7 |     95% |68, 80, 188->191, 384->exit, 394-395, 399-400, 416->415, 433 |
+|                                                         **TOTAL** | **2819** |  **226** |  **438** |   **22** | **92%** |           |
 
 
 ## Setup coverage badge
